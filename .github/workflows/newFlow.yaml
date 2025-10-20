@@ -1,4 +1,4 @@
-name: First action
+name: First action ME
 on: [push]
 
 jobs:
@@ -11,4 +11,3 @@ jobs:
               run: |
                node -v
                npm -v
- 
